@@ -20,7 +20,7 @@ def cal_fact2(n):
 
 start = time.time()
 
-cal_fact(900)
+cal_fact2(2000)
 
 end = time.time()
 
