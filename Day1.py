@@ -1,4 +1,4 @@
-#_Strings_
+# _Strings_
 
 # print("Hello World \nHello World")
 
@@ -7,14 +7,14 @@
 
 
 
-#_Input Functions_
+# _Input Functions_
 
 # name = input("What is your name?")
 # print("Hello " + name +", nice to meet you!")   # using concatenation with variable name
 # print(f"Hello {name}, nice to meet you!")       # using f-string to insert input
 
 
-#_Variables_
+# _Variables_
 
 name = "Jack"                     #variable assigned
 print(name)
