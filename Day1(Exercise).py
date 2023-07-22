@@ -6,7 +6,7 @@
 # print("New lines can be created with a backslash and n.")
 
 
-#Inputs#
+##Inputs##
 
 # name = input("What is your name?")
 # print(len(name))
